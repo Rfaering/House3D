@@ -1,0 +1,165 @@
+fileFormatVersion: 2
+guid: b1ba486cf5421fa46ae82fe34f929c4e
+timeCreated: 1460217671
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: ID11
+    100004: skp_camera_Last_Saved_SketchUp_View
+    100006: ID24
+    100008: Door
+    100010: ID28
+    100012: ID36
+    100014: ID59
+    100016: ID67
+    100018: ID73
+    100020: instance_0
+    100022: instance_1
+    100024: Window
+    100026: House
+    100028: ID61
+    100030: ID69
+    100032: ID82
+    100034: ID88
+    100036: ID96
+    100038: instance_2
+    100040: ID86
+    400000: //RootNode
+    400002: ID11
+    400004: skp_camera_Last_Saved_SketchUp_View
+    400006: ID24
+    400008: Door
+    400010: ID28
+    400012: ID36
+    400014: ID59
+    400016: ID67
+    400018: ID73
+    400020: instance_0
+    400022: instance_1
+    400024: Window
+    400026: House
+    400028: ID61
+    400030: ID69
+    400032: ID82
+    400034: ID88
+    400036: ID96
+    400038: instance_2
+    400040: ID86
+    2300000: //RootNode
+    2300002: ID11
+    2300004: ID24
+    2300006: Door
+    2300008: ID28
+    2300010: ID36
+    2300012: ID59
+    2300014: ID67
+    2300016: ID73
+    2300018: Window
+    2300020: House
+    2300022: ID61
+    2300024: ID69
+    2300026: ID82
+    2300028: ID88
+    2300030: ID96
+    2300032: ID86
+    3300000: //RootNode
+    3300002: ID11
+    3300004: ID24
+    3300006: Door
+    3300008: ID28
+    3300010: ID36
+    3300012: ID59
+    3300014: ID67
+    3300016: ID73
+    3300018: Window
+    3300020: House
+    3300022: ID61
+    3300024: ID69
+    3300026: ID82
+    3300028: ID88
+    3300030: ID96
+    3300032: ID86
+    4300000: SketchUp
+    4300002: ID11
+    4300004: ID24
+    4300006: ID59
+    4300008: ID67
+    4300010: ID73
+    4300012: Door
+    4300014: Window
+    4300016: ID28
+    4300018: ID36
+    4300020: House
+    4300022: ID61
+    4300024: ID69
+    4300026: ID82
+    4300028: ID88
+    4300030: ID96
+    4300032: ID86
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.5
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
